@@ -15,6 +15,7 @@ public class Lab {
      */
     public void throwUncheckedException() throws Exception {
         String name = null;
+        
         System.out.println(name.length());
     }
 }
